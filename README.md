@@ -1,8 +1,4 @@
-                                                                                 Hi👋 I'm Urvish   
-                                                                                 
 Building full-stack web applications using Node.js, Express, MongoDB, and JWT authentication.<br><br>Open-source web development projects and beginner-friendly full-stack applications.<br><br>Backend architecture, authentication systems, and deployment practices.<br><br>Backend development, REST APIs, database design, and secure authentication.<br><br>JavaScript, HTML, CSS, Node.js basics, and web project development.<br><br>I enjoy turning ideas into real working web applications 🚀
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/urvish-bhardwaj-391712332/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:urvishbhardwaj7@gmail.com) 
 
