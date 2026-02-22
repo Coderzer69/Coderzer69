@@ -15,7 +15,7 @@ Building full-stack web applications using Node.js, Express, MongoDB, and JWT au
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Coderzer69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
