@@ -1,4 +1,4 @@
-# 👋 Hello there ,I'm Urvish Bhardwaj
+# 👋 Hello there, I'm Urvish Bhardwaj
 
 Passionate Software Developer with a strong interest in building impactful solutions and continuously improving technical skills. Enthusiastic about solving complex problems, writing clean and maintainable code, and learning emerging technologies to stay ahead in the fast-paced tech industry.
 
