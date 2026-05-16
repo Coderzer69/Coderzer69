@@ -4,7 +4,7 @@ Passionate Software Developer with a strong interest in building impactful solut
 
 # 💫 About Me:
 
-Building full-stack web applications using Node.js, Express, MongoDB, PosgresSQL and TypeScript .<br><br>Open-source web development projects and beginner-friendly full-stack applications.<br><br>Backend architecture, authentication systems, and deployment practices.<br><br>Backend development, REST APIs, database design, and secure authentication.<br><br>JavaScript, HTML, CSS, Node.js basics, and web project development.<br><br>I enjoy turning ideas into real working web applications 🚀
+Building full-stack web applications using Node.js, Express, MongoDB, PosgresSQL and TypeScript .<br><br>Open-source web development projects and beginner-friendly full-stack applications.<br><br>Backend architecture, authentication systems, and deployment practices.<br><br>Backend development, REST APIs, database design, and secure authentication.<br><br>JavaScript, HTML, CSS, Node.js basics, and web project development.<br><br>I enjoy turning ideas into real working web applications ..
 
 
 ## 🌐 Socials:
