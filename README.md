@@ -49,18 +49,17 @@ Building scalable web applications with React, Node.js, Express, TypeScript, Spr
 
 <p align="center">
   <img
-    height="170"
     src="https://github-readme-stats.vercel.app/api?username=Coderzer69&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    height="170"
   />
   <img
-    height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coderzer69&layout=compact&theme=radical"
+    height="170"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Coderzer69&theme=radical"
-    alt="GitHub Streak"
   />
 </p>
