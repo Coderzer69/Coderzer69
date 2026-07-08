@@ -1,7 +1,7 @@
 # 👋 Hello there, I'm Urvish Bhardwaj
 <table>
 <tr>
-<!-- <td width="35%"> -->
+<td width="30%">
 
 <!-- <img src="./assets/profile.png" width="100%"/> -->
 <img width="1376" height="3104" alt="revanced" src="https://github.com/user-attachments/assets/7b16a89e-980f-4e9a-abc9-dc744d813d2c"  width="100%"/>
