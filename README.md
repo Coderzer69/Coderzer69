@@ -4,12 +4,12 @@
   </a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F77F00&center=true&vCenter=true&width=900&repeat=false&lines=AI+%26+ML+Engineer+building+deep+learning+systems+for+vision%2C+language+and+real-world+data" alt="Typing SVG" />
   </a>
-</div>
-
+</div> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;AI+Enthusiast+%26+Problem+Solver" />
 
 
 <table>
