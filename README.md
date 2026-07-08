@@ -10,18 +10,7 @@
 
 
 </td>
-
-<td width="65%">
-
-# Urvish Bhardwaj
-
-### Full Stack Developer • Software Engineer
-
-🔗 [Portfolio](https://yourportfolio.com) •
-💼 [LinkedIn](https://linkedin.com/in/yourprofile) •
-📧 your@email.com
-
-Passionate Software Developer with a strong interest in building impactful solutions and continuously improving technical skills. Enthusiastic about solving complex problems, writing clean and maintainable code, and learning emerging technologies to stay ahead in the fast-paced tech industry.
+<td width="55%">
 
 # 💫 About Me:
 
