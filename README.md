@@ -10,10 +10,11 @@
   </a>
 </div> -->
 <!-- Animated Typing -->
+<!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F77F00&center=true&vCenter=true&width=900&repeat=false&lines=Full+Stack+Developer.+Building+Scalable+Web+Applications+%26+Modern+Software+Solutions"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F77F00&center=true&vCenter=true&width=900&repeat=false&lines=Full+Stack+Developer+%7C+Turning+Ideas+into+Scalable+Digital+Products"
       alt="Typing SVG"
     />
   </a>
