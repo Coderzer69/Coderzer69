@@ -3,8 +3,10 @@
 <tr>
 <td width="35%">
 
-<img src="./assets/profile.png" width="100%"/>
-<img width="841" height="1871" alt="ChatGPT Image Jul 8, 2026, 02_54_38 PM" src="https://github.com/user-attachments/assets/0aff213d-3d55-4074-b41d-d070e183ad83" />
+<!-- <img src="./assets/profile.png" width="100%"/> -->
+<img width="1376" height="3104" alt="revanced" src="https://github.com/user-attachments/assets/7b16a89e-980f-4e9a-abc9-dc744d813d2c"  width="100%"/>
+
+<!-- <img width="841" height="1871" alt="ChatGPT Image Jul 8, 2026, 02_54_38 PM" src="https://github.com/user-attachments/assets/0aff213d-3d55-4074-b41d-d070e183ad83" /> -->
 
 
 </td>
