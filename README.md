@@ -40,6 +40,9 @@
 
 Building scalable web applications with React, Node.js, Express, TypeScript, SpringBoot, PostgreSQL, and MongoDB..<br><br>Focused on backend engineering, REST APIs, authentication, and database design.<br><br> Exploring cloud technologies, Docker, AWS, CI/CD and modern deployment workflows..<br><br>Passionate about clean code, open source, and building software that solves real-world problems.
 
+
+-----
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/urvish-bhardwaj-391712332) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@urvish99390) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:urvishbhardwaj7@gmail.com) 
 
