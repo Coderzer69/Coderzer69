@@ -37,7 +37,7 @@
 ---
 # 💫 About Me:
 
-
+---------
 Building scalable web applications with React, Node.js, Express, TypeScript, SpringBoot, PostgreSQL, and MongoDB..<br><br>Focused on backend engineering, REST APIs, authentication, and database design.<br><br> Exploring cloud technologies, Docker, AWS, CI/CD and modern deployment workflows..<br><br>Passionate about clean code, open source, and building software that solves real-world problems.
 
 
